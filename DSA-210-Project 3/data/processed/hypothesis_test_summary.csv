@@ -1,0 +1,10 @@
+Relationship,n,Pearson r,Spearman ρ,p-value,R²,Significant?
+Precipitation → BAI_full,29,0.2633,0.3108,0.1677,0.0693,No ✗
+Temperature → BAI_full,29,-0.43,-0.3408,0.0199,0.1849,Yes ✓
+Forest Area → BAI_full,29,0.9131,0.7749,0.0,0.8338,Yes ✓
+Fragmentation Index → BAI_full,29,-0.8738,-0.7749,0.0,0.7636,Yes ✓
+Road Density → BAI_full,29,-0.749,-0.7748,0.0,0.561,Yes ✓
+Nature Reserve Area → BAI_full,29,-0.6989,-0.7749,0.0,0.4885,Yes ✓
+NDVI Bamboo Zone → BAI_full,29,0.9518,0.8611,0.0,0.9059,Yes ✓
+BAI_full → Panda Population,29,0.8685,0.6747,0.0,0.7542,Yes ✓
+Bamboo Index → Panda Population (baseline),29,-0.6198,-0.4057,0.0003,0.3841,Yes ✓
