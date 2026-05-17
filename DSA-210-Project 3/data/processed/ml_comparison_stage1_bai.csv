@@ -1,6 +1,0 @@
-Model,R² (5-fold CV),R² std,RMSE (LOO-CV)
-Linear Regression,-3.0183,5.3331,0.04
-Ridge (α=1),-0.001,0.5951,0.03
-Lasso (α=0.1),-13.353,15.2719,0.12
-Random Forest,-1.5812,2.6322,0.04
-Gradient Boosting,-1.2904,2.1453,0.04
